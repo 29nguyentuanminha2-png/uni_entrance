@@ -14,7 +14,7 @@
 - Thống kê: không liệt, có liệt, học bổng
 - Danh sách học bổng: Top 5 mỗi khối (điểm XT ≥ 32, tư duy ≥ 70)
 - Validation nghiêm ngặt (CCCD 12 số, điểm 0-10, tư duy 0-100)
-- Lưu trữ JSON, 20 thí sinh mẫu
+- Lưu trữ JSON, 100 thí sinh mẫu
 
 ## Kiến trúc
 
@@ -79,7 +79,7 @@ python app.py
 cd frontend
 npm install
 npm run dev
-# Web chạy tại http://localhost:3000
+# Web chạy tại http://localhost:3000 khi không dùng docker
 ```
 
 ### Cách 3: Console (Terminal)
